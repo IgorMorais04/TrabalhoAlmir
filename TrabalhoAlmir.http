@@ -1,0 +1,6 @@
+@TrabalhoAlmir_HostAddress = http://localhost:5127
+
+GET {{TrabalhoAlmir_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

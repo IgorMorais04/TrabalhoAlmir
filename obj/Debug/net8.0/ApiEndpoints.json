@@ -1,0 +1,74 @@
+[
+  {
+    "ContainingType": "TrabalhoAlmir.Controllers.VeiculosController",
+    "Method": "Add",
+    "RelativePath": "api/v1/veiculos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "placa",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "modelo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "marca",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ano",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "cor",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrabalhoAlmir.Controllers.VeiculosController",
+    "Method": "Get",
+    "RelativePath": "api/v1/veiculos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TrabalhoAlmir.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[TrabalhoAlmir.WeatherForecast, TrabalhoAlmir, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

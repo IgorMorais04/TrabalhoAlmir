@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Almir2025\\TrabalhoAlmir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|c:\\almir2025\\trabalhoalmir\\viewmodel\\veiculosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|solutionrelative:viewmodel\\veiculosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|c:\\almir2025\\trabalhoalmir\\controllers\\veiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|solutionrelative:controllers\\veiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|c:\\almir2025\\trabalhoalmir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|c:\\almir2025\\trabalhoalmir\\infraestrutura\\veiculosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|solutionrelative:infraestrutura\\veiculosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|c:\\almir2025\\trabalhoalmir\\infraestrutura\\connectiocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|solutionrelative:infraestrutura\\connectiocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|c:\\almir2025\\trabalhoalmir\\model\\iveiculosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|solutionrelative:model\\iveiculosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|c:\\almir2025\\trabalhoalmir\\model\\veiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|solutionrelative:model\\veiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VeiculosViewModel.cs",
+              "DocumentMoniker": "C:\\Almir2025\\TrabalhoAlmir\\ViewModel\\VeiculosViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\VeiculosViewModel.cs",
+              "ToolTip": "C:\\Almir2025\\TrabalhoAlmir\\ViewModel\\VeiculosViewModel.cs",
+              "RelativeToolTip": "ViewModel\\VeiculosViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:17:44.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VeiculosController.cs",
+              "DocumentMoniker": "C:\\Almir2025\\TrabalhoAlmir\\Controllers\\VeiculosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VeiculosController.cs",
+              "ToolTip": "C:\\Almir2025\\TrabalhoAlmir\\Controllers\\VeiculosController.cs",
+              "RelativeToolTip": "Controllers\\VeiculosController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:14:25.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Almir2025\\TrabalhoAlmir\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Almir2025\\TrabalhoAlmir\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:12:22.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VeiculosRepository.cs",
+              "DocumentMoniker": "C:\\Almir2025\\TrabalhoAlmir\\Infraestrutura\\VeiculosRepository.cs",
+              "RelativeDocumentMoniker": "Infraestrutura\\VeiculosRepository.cs",
+              "ToolTip": "C:\\Almir2025\\TrabalhoAlmir\\Infraestrutura\\VeiculosRepository.cs",
+              "RelativeToolTip": "Infraestrutura\\VeiculosRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:11:44.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConnectioContext.cs",
+              "DocumentMoniker": "C:\\Almir2025\\TrabalhoAlmir\\Infraestrutura\\ConnectioContext.cs",
+              "RelativeDocumentMoniker": "Infraestrutura\\ConnectioContext.cs",
+              "ToolTip": "C:\\Almir2025\\TrabalhoAlmir\\Infraestrutura\\ConnectioContext.cs",
+              "RelativeToolTip": "Infraestrutura\\ConnectioContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:10:42.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IVeiculosRepository.cs",
+              "DocumentMoniker": "C:\\Almir2025\\TrabalhoAlmir\\Model\\IVeiculosRepository.cs",
+              "RelativeDocumentMoniker": "Model\\IVeiculosRepository.cs",
+              "ToolTip": "C:\\Almir2025\\TrabalhoAlmir\\Model\\IVeiculosRepository.cs",
+              "RelativeToolTip": "Model\\IVeiculosRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:09:15.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Veiculos.cs",
+              "DocumentMoniker": "C:\\Almir2025\\TrabalhoAlmir\\Model\\Veiculos.cs",
+              "RelativeDocumentMoniker": "Model\\Veiculos.cs",
+              "ToolTip": "C:\\Almir2025\\TrabalhoAlmir\\Model\\Veiculos.cs",
+              "RelativeToolTip": "Model\\Veiculos.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA5wBIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:07:46.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
