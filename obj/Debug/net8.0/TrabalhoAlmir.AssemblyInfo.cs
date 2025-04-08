@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrabalhoAlmir")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+307314af54c87265bba2646d2130bc8bcc70a3fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrabalhoAlmir")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrabalhoAlmir")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

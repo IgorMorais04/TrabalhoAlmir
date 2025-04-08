@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Almir2025\\TrabalhoAlmir\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|c:\\almir2025\\trabalhoalmir\\viewmodel\\veiculosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|solutionrelative:viewmodel\\veiculosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|c:\\almir2025\\trabalhoalmir\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|solutionrelative:.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|c:\\almir2025\\trabalhoalmir\\model\\veiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|solutionrelative:model\\veiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|c:\\almir2025\\trabalhoalmir\\infraestrutura\\connectiocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|solutionrelative:infraestrutura\\connectiocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|c:\\almir2025\\trabalhoalmir\\infraestrutura\\veiculosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|solutionrelative:infraestrutura\\veiculosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|c:\\almir2025\\trabalhoalmir\\controllers\\veiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,20 +27,16 @@
       "RelativeMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|c:\\almir2025\\trabalhoalmir\\infraestrutura\\veiculosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|solutionrelative:infraestrutura\\veiculosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|c:\\almir2025\\trabalhoalmir\\infraestrutura\\connectiocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|solutionrelative:infraestrutura\\connectiocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|c:\\almir2025\\trabalhoalmir\\model\\iveiculosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|solutionrelative:model\\iveiculosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|c:\\almir2025\\trabalhoalmir\\model\\veiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|solutionrelative:model\\veiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|c:\\almir2025\\trabalhoalmir\\viewmodel\\veiculosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|solutionrelative:viewmodel\\veiculosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|c:\\almir2025\\trabalhoalmir\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5837A396-007A-4BFD-B1E8-82DDB21150EB}|TrabalhoAlmir.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +46,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitattributes",
+              "DocumentMoniker": "C:\\Almir2025\\TrabalhoAlmir\\.gitattributes",
+              "RelativeDocumentMoniker": ".gitattributes",
+              "ToolTip": "C:\\Almir2025\\TrabalhoAlmir\\.gitattributes",
+              "RelativeToolTip": ".gitattributes",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-08T20:39:40.124Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
@@ -54,39 +75,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Almir2025\\TrabalhoAlmir\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Almir2025\\TrabalhoAlmir\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:59:48.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "VeiculosViewModel.cs",
               "DocumentMoniker": "C:\\Almir2025\\TrabalhoAlmir\\ViewModel\\VeiculosViewModel.cs",
               "RelativeDocumentMoniker": "ViewModel\\VeiculosViewModel.cs",
               "ToolTip": "C:\\Almir2025\\TrabalhoAlmir\\ViewModel\\VeiculosViewModel.cs",
               "RelativeToolTip": "ViewModel\\VeiculosViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T15:17:44.502Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "VeiculosController.cs",
               "DocumentMoniker": "C:\\Almir2025\\TrabalhoAlmir\\Controllers\\VeiculosController.cs",
               "RelativeDocumentMoniker": "Controllers\\VeiculosController.cs",
               "ToolTip": "C:\\Almir2025\\TrabalhoAlmir\\Controllers\\VeiculosController.cs",
               "RelativeToolTip": "Controllers\\VeiculosController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwAUAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwCsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T15:14:25.204Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Almir2025\\TrabalhoAlmir\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Almir2025\\TrabalhoAlmir\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAIA5wBIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T15:12:22.101Z",
               "EditorCaption": ""
@@ -99,14 +133,14 @@
               "RelativeDocumentMoniker": "Infraestrutura\\VeiculosRepository.cs",
               "ToolTip": "C:\\Almir2025\\TrabalhoAlmir\\Infraestrutura\\VeiculosRepository.cs",
               "RelativeToolTip": "Infraestrutura\\VeiculosRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T15:11:44.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ConnectioContext.cs",
               "DocumentMoniker": "C:\\Almir2025\\TrabalhoAlmir\\Infraestrutura\\ConnectioContext.cs",
               "RelativeDocumentMoniker": "Infraestrutura\\ConnectioContext.cs",
@@ -119,26 +153,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IVeiculosRepository.cs",
               "DocumentMoniker": "C:\\Almir2025\\TrabalhoAlmir\\Model\\IVeiculosRepository.cs",
               "RelativeDocumentMoniker": "Model\\IVeiculosRepository.cs",
               "ToolTip": "C:\\Almir2025\\TrabalhoAlmir\\Model\\IVeiculosRepository.cs",
               "RelativeToolTip": "Model\\IVeiculosRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T15:09:15.381Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Veiculos.cs",
               "DocumentMoniker": "C:\\Almir2025\\TrabalhoAlmir\\Model\\Veiculos.cs",
               "RelativeDocumentMoniker": "Model\\Veiculos.cs",
               "ToolTip": "C:\\Almir2025\\TrabalhoAlmir\\Model\\Veiculos.cs",
               "RelativeToolTip": "Model\\Veiculos.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAA5wBIAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAA5wCQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T15:07:46.28Z",
               "EditorCaption": ""

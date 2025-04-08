@@ -55,3 +55,4 @@ C:\Almir2025\TrabalhoAlmir\obj\Debug\net8.0\refint\TrabalhoAlmir.dll
 C:\Almir2025\TrabalhoAlmir\obj\Debug\net8.0\TrabalhoAlmir.pdb
 C:\Almir2025\TrabalhoAlmir\obj\Debug\net8.0\TrabalhoAlmir.genruntimeconfig.cache
 C:\Almir2025\TrabalhoAlmir\obj\Debug\net8.0\ref\TrabalhoAlmir.dll
+C:\Almir2025\TrabalhoAlmir\obj\Debug\net8.0\TrabalhoAlmir.sourcelink.json

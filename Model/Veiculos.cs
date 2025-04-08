@@ -34,7 +34,7 @@ namespace TrabalhoAlmir.Model {
         public Veiculos(int id, string placa, string modelo, string marca, int ano, string cor) {
 
 
-            this.id = id = id;
+            this.id = id;
             this.placa = placa;
             this.modelo = modelo;
             this.marca = marca;
